@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GCMMaia
-- 👀 I’m interested in start programinha whit JS HTML and python
+- 👀 I’m interested in start programing whit JS HTML and python
 - 🌱 I’m currently learning from zero and i dont know from where tô start
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : my email address bielcm.maia@gmail.com you can contact me to give me hints or to ask for a Project 
